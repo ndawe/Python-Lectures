@@ -1,5 +1,5 @@
 
-# An Introduction to the Python Programming Language
+# An Introduction to Python
 
 ## Introduction
 
