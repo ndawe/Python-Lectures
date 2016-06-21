@@ -49,28 +49,28 @@ This will clear all the outputs and now you can understand each statement and le
 
 ## Table of contents
 
-[00 - Introduction and Installation](http://nbviewer.ipython.org/github/ndawe/Python-Lectures/blob/master/00.ipynb)
+[00 - Introduction and Installation](http://nbviewer.ipython.org/github/ndawe/Python-Lectures/blob/master/00_intro.ipynb)
 
 
-[01 - Variable, Operators and Built-in Functions](http://nbviewer.ipython.org/github/ndawe/Python-Lectures/blob/master/01.ipynb)
+[01 - Variable, Operators and Built-in Functions](http://nbviewer.ipython.org/github/ndawe/Python-Lectures/blob/master/01_basics.ipynb)
 
 
-[02 - Print Statement, Precision and FieldWidth](http://nbviewer.ipython.org/github/ndawe/Python-Lectures/blob/master/02.ipynb)
+[02 - Print Statement, Precision and FieldWidth](http://nbviewer.ipython.org/github/ndawe/Python-Lectures/blob/master/02_print.ipynb)
 
 
-[03 - Lists, Tuples and Sets](http://nbviewer.ipython.org/github/ndawe/Python-Lectures/blob/master/03.ipynb)
+[03 - Lists, Tuples and Sets](http://nbviewer.ipython.org/github/ndawe/Python-Lectures/blob/master/03_datastructures.ipynb)
 
 
-[04 - Strings and Dictionaries](http://nbviewer.ipython.org/github/ndawe/Python-Lectures/blob/master/04.ipynb)
+[04 - Strings and Dictionaries](http://nbviewer.ipython.org/github/ndawe/Python-Lectures/blob/master/04_strings.ipynb)
 
 
-[05 - Control Flow Statements](http://nbviewer.ipython.org/github/ndawe/Python-Lectures/blob/master/05.ipynb)
+[05 - Control Flow Statements](http://nbviewer.ipython.org/github/ndawe/Python-Lectures/blob/master/05_control.ipynb)
 
 
-[06 - Functions](http://nbviewer.ipython.org/github/ndawe/Python-Lectures/blob/master/06.ipynb)
+[06 - Functions](http://nbviewer.ipython.org/github/ndawe/Python-Lectures/blob/master/06_functions.ipynb)
 
 
-[07 - Classes](http://nbviewer.ipython.org/github/ndawe/Python-Lectures/blob/master/07.ipynb)
+[07 - Classes](http://nbviewer.ipython.org/github/ndawe/Python-Lectures/blob/master/07_classes.ipynb)
 
 
 These are online read-only versions.
