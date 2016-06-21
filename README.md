@@ -55,13 +55,13 @@ This will clear all the outputs and now you can understand each statement and le
 [01 - Variable, Operators and Built-in Functions](http://nbviewer.ipython.org/github/ndawe/Python-Lectures/blob/master/01_basics.ipynb)
 
 
-[02 - Print Statement, Precision and FieldWidth](http://nbviewer.ipython.org/github/ndawe/Python-Lectures/blob/master/02_print.ipynb)
+[02 - Strings](http://nbviewer.ipython.org/github/ndawe/Python-Lectures/blob/master/02_strings.ipynb)
 
 
-[03 - Lists, Tuples and Sets](http://nbviewer.ipython.org/github/ndawe/Python-Lectures/blob/master/03_datastructures.ipynb)
+[03 - Print Statement, Precision and FieldWidth](http://nbviewer.ipython.org/github/ndawe/Python-Lectures/blob/master/03_print.ipynb)
 
 
-[04 - Strings and Dictionaries](http://nbviewer.ipython.org/github/ndawe/Python-Lectures/blob/master/04_strings.ipynb)
+[04 - Lists, Tuples, Sets and Dictionaries](http://nbviewer.ipython.org/github/ndawe/Python-Lectures/blob/master/04_datastructures.ipynb)
 
 
 [05 - Control Flow Statements](http://nbviewer.ipython.org/github/ndawe/Python-Lectures/blob/master/05_control.ipynb)
